@@ -1,7 +1,7 @@
 [
   {
     "name": "Crystal Store",
-    "url": "https://crystal-store.xyz/",
+    "url": "https://crystal-store.xyz",
     "icon": "https://icons.duckduckgo.com/ip3/crystal-store.xyz.ico",
     "slug": "crystal-store",
     "status": "up",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 470,
-    "timeDay": 470,
-    "timeWeek": 470,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "time": 435,
+    "timeDay": 435,
+    "timeWeek": 435,
+    "timeMonth": 435,
+    "timeYear": 435,
     "dailyMinutesDown": {}
   }
 ]
